@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import CatFacts from './components/CatFacts'
+import CatFacts from './components/CatFacts';
 
 function App() {
   return (
@@ -9,6 +8,6 @@ function App() {
       <CatFacts />
     </div>
   );
-}
+};
 
 export default App;
