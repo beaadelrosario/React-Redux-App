@@ -1,0 +1,1 @@
+export {catFactsReducer as reducer} from "./catFactsReducer";
